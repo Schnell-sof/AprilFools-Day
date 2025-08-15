@@ -1,0 +1,111 @@
+nav{
+   justify-content: space-around;
+ display: flex;
+ margin-bottom: 50px;
+}
+
+nav a{
+ width: 100px;
+ height: 50px;
+ left: 320px;
+ top: 330px;
+ background-color:#219BC3;
+ color:white;
+ text-align: center;
+
+}
+
+
+h2{
+border-bottom:3px solid #C66AAB;
+color:#F2CFDA;
+}
+
+
+b{
+  color:#219BC3;
+  font-size:30px;
+}
+
+
+h1{
+  color: #219BC3;
+  background-color:#B2D3E1;
+  text-align:center;
+  height:150px;
+  font-size:60px;
+}
+
+
+.story{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.story div{
+  padding: 10px 10px 10px 10px;
+  margin:10px 10px 10px 10px;
+}
+
+
+.p{
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+
+}
+
+
+.p div{
+  padding: 10px 10px 10px 10px;
+  margin:10px 10px 10px 10px;
+}
+
+
+.k{
+  width:300px;
+}
+
+
+table{
+  border: 1px solid black;
+}
+
+tr{
+  border: 1px solid black;
+}
+
+
+td{
+  border: 1px solid black;
+}
+
+
+.t{
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+
+
+.t div{
+  padding: 10px 10px 10px 10px;
+  margin:10px 10px 10px 10px;
+}
+
+
+.c{
+  color:#F2CFDA;
+}
+
+.table{
+  display: flex;
+  justify-content: space-around;
+}
+
+.table p{
+  margin-top: 200px;
+  text-align: center;
+}
